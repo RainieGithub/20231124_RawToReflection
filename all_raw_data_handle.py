@@ -4,7 +4,7 @@ import os
 import predict_reflection_cubicspline_py2 as prc
 import csv
 
-path = "C:/Users/user/Desktop/20231124_raw2reflection/"
+path = "C:/Users/user/Desktop/_RawToReflection/"
 
 
 path_raw = path + "raw_data/"
